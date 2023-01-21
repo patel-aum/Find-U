@@ -1,0 +1,29 @@
+.container{
+  justify-content: center;
+  align-items: center;
+}
+
+.msg {
+  text-align: center;
+  color:#8e0405;  
+}
+
+button{
+
+  padding: 10px 30px;
+  background-color: #e50078;
+  color: white;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.main{
+  padding: 100px;
+  text-align: center;
+  color: #e50078;
+}
+*{
+  
+  background-color: #f4dae0;
+}
